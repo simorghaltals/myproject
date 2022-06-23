@@ -5,4 +5,6 @@ class Practice:
         pass
 
 if __name__ == 'main':
-    s = Practice()
+    s1 = Practice()
+    s2 = Practice()
+    s3 = Practice()
