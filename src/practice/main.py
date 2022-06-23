@@ -1,7 +1,8 @@
 import numpy as np 
 
 class Practice:
-    pass
+    def __init__(self):
+        pass
 
 if __name__ == 'main':
     s = Practice()
